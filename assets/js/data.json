@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "nom" : "White glamour",
+        "prix" : 60,
+        "description" : "robe blanche style années 60 avec un noued papillon au niveau de la ceinture ",
+        "img": "girl-1901848_1280.jpg"
+    },
+    {
+        "id" : 2,
+        "nom" : "Black & white",
+        "prix" : 75,
+        "description" : "robe black and white style années 60 avec un berret noir",
+        "img": "pexels-lokmansevim-16598981.jpg"
+    },
+    {
+        "id" : 3,
+        "nom" : "Bohème chic",
+        "prix" : 80,
+        "description" : "robe bohème noir à pois rose avec motifs à fleur style années 60 et un chapeau",
+        "img": "pexels-oyiiksadewaa-31818446.jpg"
+    },
+    {
+        "id" : 4,
+        "nom" : "Sweet fifties",
+        "prix" : 55,
+        "description" : "robe rouge à pois blanc style années 50 avec ceinture blanche et gants blancs",
+        "img": "woman-9570616_1280.jpg"
+    },
+    {
+        "id" : 5,
+        "nom" : "Blue chic",
+        "prix" : 90,
+        "description" : "robe bleue à motifs style années 60 avec un chapeau bleu ",
+        "img": "woman-6215844_1280.jpg"
+    },
+    {
+        "id" : 6,
+        "nom" : "Hello Yellow",
+        "prix" : 45,
+        "description" : "robe jaune à petits pois noirs style années 50 avec ceinture jaune et noire",
+        "img": "yellow-dress-4601355_1280.jpg"
+    },
+        {
+        "id" : 7,
+        "nom" : "Yellow glamour",
+        "prix" : 110,
+        "description" : "robe jaune avec un noued papillon noir et gants violets à poids blanc style années 60",
+        "img": "woman-9589795_1280.jpg"
+    },
+    {
+        "id" : 8,
+        "nom" : "Miss Molly",
+        "prix" : 100,
+        "description" : "ensemble chemise, jupe, veste, cravate, et chapeau style années 60",
+        "img": "woman-9554495_1280.jpg"
+    },
+    {
+        "id" : 9,
+        "nom" : "Douceur de vivre",
+        "prix" : 65,
+        "description" : "robe rose pastel style années 50 avec ceinture kamel ",
+        "img": "woman-3048540_1280.jpg"
+    },
+        {
+        "id" : 10,
+        "nom" : "Miss Pink & White",
+        "prix" : 95,
+        "description" : "robe blanche à pois rose avec ceinture rose style années 50",
+        "img": "vintage-woman-635255_1280.jpg"
+    }
+]

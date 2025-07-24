@@ -1,0 +1,135 @@
+@font-face{
+    font-family: vintage;
+    src : url("/assets/css/Vintage.ttf");
+}
+
+*  {
+    /* Inclut le padding et la bordure dans la largeur et la hauteur de l'élément.
+      Cela simplifie le calcul des tailles et évite les débordements inattendus. */
+    box-sizing: border-box;
+    /* Aligne les éléments sur la ligne de base du texte environnant, pour un rendu plus cohérent. */
+    vertical-align: baseline;
+}
+
+.col_1 {width: 8.333333%;}
+.col_2 {width: 16.666666%;}
+.col_3 {width: 25%;}
+.col_4 {width: 33.333333%;}
+.col_5 {width: 41.666666%;}
+.col_6 {width: 50%;}
+.col_7 {width: 58.333333%;}
+.col_8 {width: 66.666666%;}
+.col_9 {width: 75%;}
+.col_10 {width: 83.333333%;} 
+.col_11 {width:91.666666%;}
+.col_12 {width: 100%;}
+
+body{
+   background-image: url("/assets/img/psychedelic-7858138_1280.jpg");
+   background-size: cover;
+
+}
+
+.bloc{
+    margin: 0 auto;
+    background:#46b17b;
+    height: 100px;
+    margin-bottom: 150px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 120px;
+    justify-content: space-evenly;
+}
+
+.logo img{
+    width: 200px;
+    margin-left: 800px;
+}
+
+nav ul {
+    display: flex; 
+    justify-content: center; 
+    list-style: none;
+}
+
+nav ul li {
+	margin: 0 6rem;
+    margin-top: 40px;
+}
+
+
+nav ul li a {
+    color: rgb(255, 255, 255); 
+    background-color: rgb(202, 64, 14);
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.myTitle {
+    color: #46b17b;
+    font-size: large;
+    text-align: center;
+    font-family: vintage;
+}
+
+.myText {
+    font-size: medium;
+    text-align: center;
+}
+
+.myFooterCard{
+    border-top: 2px solid rgb(202, 163, 55);
+    background-color:#9e682b;
+    padding: 10px 5px;
+}
+
+.myBtnColor{
+    color: white;
+    background: linear-gradient(#46b17b, rgb(33, 85, 63));
+    border-radius: 5px;
+}
+
+.myCart{
+    background-color: #9e682b ;
+    margin: 50px 6%; /* 50px margin en haut et en bas, 6% sur les côtés : gauche et droite */
+    width: 15%;
+    text-align: end;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:  rgb(228, 235, 121) 2.4px 2.4px 3.2px;
+    color: aliceblue;
+}
+
+footer {
+    background-color:#46b17b; /* Définit la couleur de fond du pied de page */
+    color:  rgb(17, 17, 17); /* Définit la couleur du texte du pied de page */
+    text-align: center; /* Centre le texte du pied de page */
+    padding: 1rem 0; /* Ajoute un espacement interne en haut et en bas du pied de page */
+    margin-top: 120px;
+    height: 70px;
+}
+
+footer p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: large;
+}
+
+.myBtnDelete{
+    background: linear-gradient(rgb(238, 137, 69), rgb(202, 163, 55));
+    color: aliceblue;
+    padding: 5px 20px;
+    margin-left: 20px;
+    font-weight: bolder;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+
+
+
