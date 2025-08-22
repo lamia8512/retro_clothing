@@ -82,6 +82,10 @@ nav ul li a {
     text-align: center;
 }
 
+.myFont{
+    color: white;
+}
+
 .myFooterCard{
     border-top: 2px solid rgb(202, 163, 55);
     background-color:#9e682b;
